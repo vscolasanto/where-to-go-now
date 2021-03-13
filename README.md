@@ -1,4 +1,5 @@
-### Boilerplate NextJS
+### Where to go now?
+Repositório para estudo do curso: [Aprenda NextJS, GraphQL e Leaflet na prática!](https://www.udemy.com/course/aprenda-nextjs-na-pratica/)
 
 Tecnologias
 
@@ -11,6 +12,7 @@ Tecnologias
 - [x] [Styled Components](https://styled-components.com/)
 - [x] [Lint Staged](https://github.com/okonet/lint-staged)
 - [x] [Husky](https://github.com/typicode/husky)
+- [x] [Leaflet](https://leafletjs.com/)
 
 ----------------------------------------
 
