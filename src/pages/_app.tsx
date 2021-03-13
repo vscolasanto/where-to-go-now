@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Where to Go - Pra onde ir em sua próxima viagem ?</title>
+        <title>Where to go now ? - Pra onde ir em sua próxima viagem ?</title>
         <link rel="shortcut icon" href="" />
         <link rel="apple-touch-icon" href="" />
 
